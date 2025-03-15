@@ -22,12 +22,27 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/the-flying-pigeon/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/the-flying-pigeon/
+            http://localhost:8000/products/ashwagandha/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/tongkat-ali/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/multigummies/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/magnesium/
         </loc>
     </url>
     <url>
