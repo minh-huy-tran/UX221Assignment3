@@ -25,6 +25,10 @@ Template:       twentytwentyfive
 	background-color: #123f5c;
 }
 
+.green-box .price-filter-submit[type=submit], .green-box .product-search-submit {
+	background-color: #123f5c;
+}
+
 header{
 	background-color: #123f5c;
 	color:white;
