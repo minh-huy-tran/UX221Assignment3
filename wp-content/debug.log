@@ -1,1 +1,2 @@
 [12-Mar-2025 23:28:39 UTC] PHP Warning:  Undefined array key "host" in /workspaces/UX221Assignment3/.wordpress/wp-includes/pluggable.php on line 1625
+[15-Mar-2025 00:59:11 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assignment3/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
